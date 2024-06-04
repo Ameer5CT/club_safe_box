@@ -1,0 +1,112 @@
+{
+  "box": {
+    "force": "null"
+  },
+  "members": [
+    {
+      "_id": 0,
+      "box_access": "super",
+      "name": "AMEER",
+      "nfc": "00:00:00:00:00:00:00,00:00:00:00",
+      "surname": "ADELI"
+    },
+    {
+      "_id": 1,
+      "box_access": "super",
+      "name": "ADA",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "FİRDEVS"
+    },
+    {
+      "_id": 2,
+      "box_access": "normal",
+      "name": "KADİRHAN",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "YALAMAN"
+    },
+    {
+      "_id": 3,
+      "box_access": "super",
+      "name": "MURAT",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "DENİZ"
+    },
+    {
+      "_id": 4,
+      "box_access": "super",
+      "name": "SARA",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "ALDEEB"
+    },
+    {
+      "_id": 5,
+      "box_access": "normal",
+      "name": "AZRA",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "AHSEN"
+    },
+    {
+      "_id": 6,
+      "box_access": "normal",
+      "name": "DENİZ",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "ÇAYLI"
+    },
+    {
+      "_id": 7,
+      "box_access": "normal",
+      "name": "ERDEM",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "ORUÇ"
+    },
+    {
+      "_id": 8,
+      "box_access": "normal",
+      "name": "ERŞAT",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "KORAN"
+    },
+    {
+      "_id": 9,
+      "box_access": "super",
+      "name": "İHSAN",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "CAN"
+    },
+    {
+      "_id": 10,
+      "box_access": "normal",
+      "name": "SUDENAZ",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "NİMET"
+    },
+    {
+      "_id": 11,
+      "box_access": "normal",
+      "name": "KARDELEN",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "ÇÖLKUŞU"
+    },
+    {
+      "_id": 12,
+      "name": "MELTEM",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "MERAL"
+    },
+    {
+      "_id": 13,
+      "box_access": "super",
+      "name": "MUSTAFA",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "KAYA"
+    },
+    {
+      "_id": 14,
+      "box_access": "super",
+      "name": "ÖMER",
+      "nfc": "00:00:00:00:00:00:00",
+      "surname": "FARUK"
+    }
+  ],
+  "members_nfc": "0=00:00:00:00:00:00:00,0=00:00:00:00,1=00:00:00:00:00:00:00,2=00:00:00:00:00:00:00,3=00:00:00:00:00:00:00,4=00:00:00:00:00:00:00,5=00:00:00:00:00:00:00,6=00:00:00:00:00:00:00,7=00:00:00:00:00:00:00,8=00:00:00:00:00:00:00,9=00:00:00:00:00:00:00,10=00:00:00:00:00:00:00,11=00:00:00:00:00:00:00,12=00:00:00:00:00:00:00,13=00:00:00:00:00:00:00,14=00:00:00:00:00:00:00"
+}
