@@ -7,106 +7,106 @@
       "_id": 0,
       "box_access": "super",
       "name": "AMEER",
-      "nfc": "00:00:00:00:00:00:00,00:00:00:00",
+      "nfc": "1D:20:2C:5D:03:10:80,8D:28:B2:90",
       "surname": "ADELI"
     },
     {
       "_id": 1,
       "box_access": "super",
       "name": "ADA",
-      "nfc": "00:00:00:00:00:00:00",
-      "surname": "FİRDEVS"
+      "nfc": "1D:1E:2C:5D:03:10:80",
+      "surname": "F\u0130RDEVS"
     },
     {
       "_id": 2,
       "box_access": "normal",
-      "name": "KADİRHAN",
-      "nfc": "00:00:00:00:00:00:00",
+      "name": "KAD\u0130RHAN",
+      "nfc": "1D:1F:2C:5D:03:10:80",
       "surname": "YALAMAN"
     },
     {
       "_id": 3,
       "box_access": "super",
       "name": "MURAT",
-      "nfc": "00:00:00:00:00:00:00",
-      "surname": "DENİZ"
+      "nfc": "04:37:7C:C2:A5:65:81",
+      "surname": "DEN\u0130Z"
     },
     {
       "_id": 4,
       "box_access": "super",
       "name": "SARA",
-      "nfc": "00:00:00:00:00:00:00",
+      "nfc": "04:33:7C:C2:A5:65:81",
       "surname": "ALDEEB"
     },
     {
       "_id": 5,
       "box_access": "normal",
       "name": "AZRA",
-      "nfc": "00:00:00:00:00:00:00",
+      "nfc": "1D:1A:2C:5D:03:10:80",
       "surname": "AHSEN"
     },
     {
       "_id": 6,
       "box_access": "normal",
-      "name": "DENİZ",
-      "nfc": "00:00:00:00:00:00:00",
-      "surname": "ÇAYLI"
+      "name": "DEN\u0130Z",
+      "nfc": "1D:19:2C:5D:03:10:80",
+      "surname": "\u00c7AYLI"
     },
     {
       "_id": 7,
       "box_access": "normal",
       "name": "ERDEM",
-      "nfc": "00:00:00:00:00:00:00",
-      "surname": "ORUÇ"
+      "nfc": "04:72:7C:C2:A5:65:81",
+      "surname": "ORU\u00c7"
     },
     {
       "_id": 8,
       "box_access": "normal",
-      "name": "ERŞAT",
-      "nfc": "00:00:00:00:00:00:00",
+      "name": "ER\u015eAT",
+      "nfc": "04:66:7C:C2:A5:65:81",
       "surname": "KORAN"
     },
     {
       "_id": 9,
       "box_access": "super",
-      "name": "İHSAN",
-      "nfc": "00:00:00:00:00:00:00",
+      "name": "\u0130HSAN",
+      "nfc": "04:28:7C:C2:A5:65:81",
       "surname": "CAN"
     },
     {
       "_id": 10,
       "box_access": "normal",
       "name": "SUDENAZ",
-      "nfc": "00:00:00:00:00:00:00",
-      "surname": "NİMET"
+      "nfc": "1D:1D:2C:5D:03:10:80",
+      "surname": "N\u0130MET"
     },
     {
       "_id": 11,
       "box_access": "normal",
       "name": "KARDELEN",
-      "nfc": "00:00:00:00:00:00:00",
-      "surname": "ÇÖLKUŞU"
+      "nfc": "04:60:7C:C2:A5:65:81",
+      "surname": "\u00c7\u00d6LKU\u015eU"
     },
     {
       "_id": 12,
       "name": "MELTEM",
-      "nfc": "00:00:00:00:00:00:00",
+      "nfc": "1D:1C:2C:5D:03:10:80",
       "surname": "MERAL"
     },
     {
       "_id": 13,
       "box_access": "super",
       "name": "MUSTAFA",
-      "nfc": "00:00:00:00:00:00:00",
+      "nfc": "04:6E:7C:C2:A5:65:81",
       "surname": "KAYA"
     },
     {
       "_id": 14,
       "box_access": "super",
-      "name": "ÖMER",
-      "nfc": "00:00:00:00:00:00:00",
+      "name": "\u00d6MER",
+      "nfc": "04:2C:7C:C2:A5:65:81",
       "surname": "FARUK"
     }
   ],
-  "members_nfc": "0=00:00:00:00:00:00:00,0=00:00:00:00,1=00:00:00:00:00:00:00,2=00:00:00:00:00:00:00,3=00:00:00:00:00:00:00,4=00:00:00:00:00:00:00,5=00:00:00:00:00:00:00,6=00:00:00:00:00:00:00,7=00:00:00:00:00:00:00,8=00:00:00:00:00:00:00,9=00:00:00:00:00:00:00,10=00:00:00:00:00:00:00,11=00:00:00:00:00:00:00,12=00:00:00:00:00:00:00,13=00:00:00:00:00:00:00,14=00:00:00:00:00:00:00"
+  "members_nfc": "0=1D:20:2C:5D:03:10:80,0=8D:28:B2:90,1=1D:1E:2C:5D:03:10:80,2=1D:1F:2C:5D:03:10:80,3=04:37:7C:C2:A5:65:81,4=04:33:7C:C2:A5:65:81,5=1D:1A:2C:5D:03:10:80,6=1D:19:2C:5D:03:10:80,7=04:72:7C:C2:A5:65:81,8=04:66:7C:C2:A5:65:81,9=04:28:7C:C2:A5:65:81,10=1D:1D:2C:5D:03:10:80,11=04:60:7C:C2:A5:65:81,12=1D:1C:2C:5D:03:10:80,13=04:6E:7C:C2:A5:65:81,14=04:2C:7C:C2:A5:65:81"
 }
